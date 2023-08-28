@@ -9,7 +9,7 @@
 Hyper-Threading ermöglicht virtuelle Threads auf physischen CPU Kernen zu erstellen, somit kann man die Nutzung der Kerne effizienter machen. Es erlaubt die gleichzeitige Ausführung von mehreren Aufgaben.
 
 ## Weniger RAM als Gast-System
-<img src="m346KN01lessRAM.png" alt="Less RAM than Gast-System" width="800">
+<img src="[m346KN01lessRAM.png](https://awsacademy.instructure.com/courses/54246/files/2461701/preview)" alt="Less RAM than Gast-System" width="800">
 
 ## Mehr RAM als Gast-System
 <img src="m346KN01moreRAM.png" alt="More RAM than Gast-System" width="800">
