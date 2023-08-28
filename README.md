@@ -29,13 +29,13 @@ Hyper-Threading ermöglicht virtuelle Threads auf physischen CPU Kernen zu erste
 ## AWS Kurs
 ## Lab 4.1 - EC2
 ### HTML-Seite, inkl. URL
-<img src="KN01/m346KN02-1.png" alt="HTML-Seite, inkl. URL" width="800">
+<img src="KN02/m346KN02-1.png" alt="HTML-Seite, inkl. URL" width="800">
 
 ### Liste der EC2-Instanzen
-<img src="KN01/m346KN02-2.png" alt="HTML-Seite, inkl. URL" width="800">
+<img src="KN02/m346KN02-2.png" alt="HTML-Seite, inkl. URL" width="800">
 
 ### Details der Web Server-Instanz (öffentliche IP sichtbar)
-<img src="KN01/m346KN02-3.png" alt="HTML-Seite, inkl. URL" width="800">
+<img src="KN02/m346KN02-3.png" alt="HTML-Seite, inkl. URL" width="800">
 
 ### Security-Group: Liste der Inbound-Regeln
-<img src="KN01/m346KN02-4.png" alt="HTML-Seite, inkl. URL" width="800">
+<img src="KN02/m346KN02-4.png" alt="HTML-Seite, inkl. URL" width="800">
