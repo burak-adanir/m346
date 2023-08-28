@@ -1,4 +1,4 @@
-#KN01
+# KN01
 ## CPU mit weniger Cores than Gast-System
 <img src="m346KN01lessCPU.png" alt="CPU with fewer Cores than Gast-System" width="600">
 
@@ -13,3 +13,6 @@ Hyper-Threading ermöglicht virtuelle Threads auf physischen CPU Kernen zu erste
 
 ## Mehr RAM als Gast-System
 <img src="m346KN01moreRAM.png" alt="More RAM than Gast-System" width="600">
+
+## Gast-System Eigenschaften
+<img src="Screenshot 2023-08-21 103151.png" alt="Gast-System" width="600">
