@@ -7,24 +7,27 @@ pekoms.-
     - [AWS Kurs](#aws-kurs)
 
 
-# KN01
-## CPU mit weniger Cores than Gast-System
-<img src="(https://github.com/burak-adanir/m346/blob/main/KN01/m346KN01GastProof.png?raw=true)" alt="CPU with fewer Cores than Gast-System" width="800">
+## KN01
+### CPU mit weniger Cores als Gast-System
+![CPU mit weniger Cores als Gast-System](https://github.com/burak-adanir/m346/raw/main/KN01/m346KN01lessCPU.png)
 
-## CPU mit mehr Cores than Gast-System
-<img src="m346KN01moreCPU.png" alt="CPU with too many Cores as Gast-System" width="800">
+### CPU mit mehr Cores als Gast-System
+![CPU mit zu vielen Cores als Gast-System](https://github.com/burak-adanir/m346/raw/main/KN01/m346KN01moreCPU.png)
 
+Hyper-Threading ermöglicht virtuelle Threads auf physischen CPU-Kernen zu erstellen, somit kann man die Nutzung der Kerne effizienter machen. Es erlaubt die gleichzeitige Ausführung von mehreren Aufgaben.
 
-Hyper-Threading ermöglicht virtuelle Threads auf physischen CPU Kernen zu erstellen, somit kann man die Nutzung der Kerne effizienter machen. Es erlaubt die gleichzeitige Ausführung von mehreren Aufgaben.
+### Weniger RAM als Gast-System
+![Weniger RAM als Gast-System](https://github.com/burak-adanir/m346/raw/main/KN01/m346KN01lessRAM.png)
 
-## Weniger RAM als Gast-System
-<img src="m346KN01lessRAM.png" alt="Less RAM than Gast-System" width="800">
+### Mehr RAM als Gast-System
+![Mehr RAM als Gast-System](https://github.com/burak-adanir/m346/raw/main/KN01/m346KN01moreRAM.png)
 
-## Mehr RAM als Gast-System
-<img src="m346KN01moreRAM.png" alt="More RAM than Gast-System" width="800">
+### Gast-System Eigenschaften
+![Gast-System](https://github.com/burak-adanir/m346/raw/main/KN01/m346KN01GastProof.png)
 
-## Gast-System Eigenschaften
-<img src="m346KN01GastProof.png" alt="Gast-System" width="600">
+# m346
+pekoms.-
 
-# KN02
-
+## KN02
+### AWS Kurs
+- A1
