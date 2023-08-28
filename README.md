@@ -9,7 +9,7 @@ pekoms.-
 
 # KN01
 ## CPU mit weniger Cores than Gast-System
-<img src="[m346KN01lessCPU.png](https://github.com/burak-adanir/m346/blob/main/KN01/m346KN01GastProof.png?raw=true)" alt="CPU with fewer Cores than Gast-System" width="800">
+<img src="(https://github.com/burak-adanir/m346/blob/main/KN01/m346KN01GastProof.png?raw=true)" alt="CPU with fewer Cores than Gast-System" width="800">
 
 ## CPU mit mehr Cores than Gast-System
 <img src="m346KN01moreCPU.png" alt="CPU with too many Cores as Gast-System" width="800">
