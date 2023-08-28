@@ -15,4 +15,4 @@ Hyper-Threading ermöglicht virtuelle Threads auf physischen CPU Kernen zu erste
 <img src="m346KN01moreRAM.png" alt="More RAM than Gast-System" width="800">
 
 ## Gast-System Eigenschaften
-<img src="Screenshot 2023-08-21 103151.png" alt="Gast-System" width="600">
+<img src="m346KN01GastProof.png" alt="Gast-System" width="600">
