@@ -3,9 +3,8 @@ pekoms.-
 
 1. [KN01](#kn01)
 2. [KN02](#kn02)
-    - [Lab 4.1 - EC2](#Lab 4.1 - EC2)
-    - [Lab 4.2 - Buckets](#Lab 4.2 - Buckets)
-
+    - [Lab 4.1 - EC2](#lab-41-ec2)
+    - [Lab 4.2 - Buckets](#lab-42-buckets)
 
 
 # KN01
