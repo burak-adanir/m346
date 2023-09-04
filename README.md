@@ -28,7 +28,7 @@ Hyper-Threading ermöglicht virtuelle Threads auf physischen CPU Kernen zu erste
 
 # KN02
 <a name="lab-41-ec2"></a>
-## [Lab 4.1 - EC2](#lab-41-ec2)
+## Lab 4.1 - EC2
 ### HTML-Seite, inkl. URL
 <img src="KN02 IaaS - Virtuelle Server/AWS Kurs/m346KN02-1.png" alt="HTML-Seite, inkl. URL" width="800">
 
