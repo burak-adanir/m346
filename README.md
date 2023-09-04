@@ -3,7 +3,9 @@ pekoms.-
 
 1. [KN01](#kn01)
 2. [KN02](#kn02)
-    - [AWS Kurs](#aws-kurs)
+    - [Lab 4.1 - EC2](#Lab 4.1 - EC2)
+    - [Lab 4.2 - Buckets](#Lab 4.2 - Buckets)
+
 
 
 # KN01
@@ -26,16 +28,30 @@ Hyper-Threading ermöglicht virtuelle Threads auf physischen CPU Kernen zu erste
 <img src="KN01/m346KN01GastProof.png" alt="Gast-System" width="800">
 
 # KN02
-## AWS Kurs
 ## Lab 4.1 - EC2
 ### HTML-Seite, inkl. URL
-<img src="KN01/m346KN02-1.png" alt="HTML-Seite, inkl. URL" width="800">
+<img src="KN02 IaaS - Virtuelle Server/AWS Kurs/m346KN02-1.png" alt="HTML-Seite, inkl. URL" width="800">
 
 ### Liste der EC2-Instanzen
-<img src="KN01/m346KN02-2.png" alt="HTML-Seite, inkl. URL" width="800">
+<img src="KN02 IaaS - Virtuelle Server/AWS Kurs/m346KN02-2.png" alt="HTML-Seite, inkl. URL" width="800">
 
 ### Details der Web Server-Instanz (öffentliche IP sichtbar)
-<img src="KN01/m346KN02-3.png" alt="HTML-Seite, inkl. URL" width="800">
+<img src="KN02 IaaS - Virtuelle Server/AWS Kurs/m346KN02-3.png" alt="HTML-Seite, inkl. URL" width="800">
 
 ### Security-Group: Liste der Inbound-Regeln
-<img src="KN01/m346KN02-4.png" alt="HTML-Seite, inkl. URL" width="800">
+<img src="KN02 IaaS - Virtuelle Server/AWS Kurs/m346KN02-4.png" alt="HTML-Seite, inkl. URL" width="800">
+
+
+## Lab 4.2 - Buckets
+### HTML-Seite, inkl. URL
+<img src="KN02 IaaS - Virtuelle Server/AWS Kurs/m346KN02-1.png" alt="HTML-Seite, inkl. URL" width="800">
+
+### Liste der EC2-Instanzen
+<img src="KN02 IaaS - Virtuelle Server/AWS Kurs/m346KN02-2.png" alt="HTML-Seite, inkl. URL" width="800">
+
+### Details der Web Server-Instanz (öffentliche IP sichtbar)
+<img src="KN02 IaaS - Virtuelle Server/AWS Kurs/m346KN02-3.png" alt="HTML-Seite, inkl. URL" width="800">
+
+### Security-Group: Liste der Inbound-Regeln
+<img src="KN02 IaaS - Virtuelle Server/AWS Kurs/m346KN02-4.png" alt="HTML-Seite, inkl. URL" width="800">
+
