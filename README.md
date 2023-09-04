@@ -3,7 +3,7 @@ pekoms.-
 
 1. [KN01](#kn01)
 2. [KN02](#kn02)
-    - [Lab 4.1 - EC2](src="")
+    - [Lab 4.1 - EC2](src="https://github.com/burak-adanir/m346/blob/main/README.md#lab41")
     - [Lab 4.2 - Buckets](#lab4.2)
 
 
