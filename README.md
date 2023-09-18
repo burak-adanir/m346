@@ -25,7 +25,7 @@ Hyper-Threading ermöglicht virtuelle Threads auf physischen CPU Kernen zu erste
 <img src="KN01/m346KN01GastProof.png" alt="Gast-System" width="800">
 
 # KN02
-## Lab 4.1 - EC2
+## A) Lab 4.1 - EC2
 ### HTML-Seite, inkl. URL
 <img src="KN02 IaaS - Virtuelle Server/AWS Kurs/m346KN02-1.png" alt="HTML-Seite, inkl. URL" width="800">
 
@@ -39,7 +39,7 @@ Hyper-Threading ermöglicht virtuelle Threads auf physischen CPU Kernen zu erste
 <img src="KN02 IaaS - Virtuelle Server/AWS Kurs/m346KN02-4.png" alt="HTML-Seite, inkl. URL" width="800">
 
 
-## Lab 4.2 - Buckets 
+## B) Lab 4.2 - Buckets 
 ### Liste der Buckets
 <img src="KN02 IaaS - Virtuelle Server/AWS Kurs/m346KN02-1.png" alt="Liste der Buckets" width="800">
 
@@ -51,4 +51,9 @@ Hyper-Threading ermöglicht virtuelle Threads auf physischen CPU Kernen zu erste
 
 ### Eigenschaften von "Static website hosting"
 <img src="KN02 IaaS - Virtuelle Server/AWS Kurs/m346KN02-4.png" alt="Eigenschaften von Static website hosting" width="800">
+
+## B) Zugriff mit SSH-Key
+
+## C) Installation von Web- und Datenbankserver
+
 
