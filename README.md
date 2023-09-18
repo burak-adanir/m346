@@ -64,4 +64,12 @@ Hyper-Threading ermöglicht virtuelle Threads auf physischen CPU Kernen zu erste
 
 ## C) Installation von Web- und Datenbankserver
 
+### Apache
+<img src="KN02 IaaS - Virtuelle Server/Installation von Web- und Datenbankserver/Installation von Web- und DatenbankserverBild1.png" alt="Eigenschaften von Static website hosting" width="800">
+
+### PHP
+<img src="KN02 IaaS - Virtuelle Server/Installation von Web- und Datenbankserver/Installation von Web- und DatenbankserverBild2.png" alt="Eigenschaften von Static website hosting" width="800">
+
+### Database-Info
+<img src="KN02 IaaS - Virtuelle Server/Installation von Web- und Datenbankserver/Installation von Web- und DatenbankserverBild3.png" alt="Eigenschaften von Static website hosting" width="800">
 
