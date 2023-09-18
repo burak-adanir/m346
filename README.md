@@ -3,8 +3,6 @@ pekoms.-
 
 1. [KN01](#kn01)
 2. [KN02](#kn02)
-    - [Lab 4.1 - EC2](src="https://github.com/burak-adanir/m346/blob/main/README.md#lab41")
-    - [Lab 4.2 - Buckets](#lab4.2)
 
 
 # KN01
@@ -27,7 +25,7 @@ Hyper-Threading ermöglicht virtuelle Threads auf physischen CPU Kernen zu erste
 <img src="KN01/m346KN01GastProof.png" alt="Gast-System" width="800">
 
 # KN02
-## Lab4.1
+## Lab 4.1 - EC2
 ### HTML-Seite, inkl. URL
 <img src="KN02 IaaS - Virtuelle Server/AWS Kurs/m346KN02-1.png" alt="HTML-Seite, inkl. URL" width="800">
 
@@ -41,7 +39,7 @@ Hyper-Threading ermöglicht virtuelle Threads auf physischen CPU Kernen zu erste
 <img src="KN02 IaaS - Virtuelle Server/AWS Kurs/m346KN02-4.png" alt="HTML-Seite, inkl. URL" width="800">
 
 
-## Lab4.2 
+## Lab 4.2 - Buckets 
 ### Liste der Buckets
 <img src="KN02 IaaS - Virtuelle Server/AWS Kurs/m346KN02-1.png" alt="Liste der Buckets" width="800">
 
