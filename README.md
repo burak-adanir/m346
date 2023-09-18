@@ -53,6 +53,14 @@ Hyper-Threading ermöglicht virtuelle Threads auf physischen CPU Kernen zu erste
 <img src="KN02 IaaS - Virtuelle Server/AWS Kurs/m346KN02-4.png" alt="Eigenschaften von Static website hosting" width="800">
 
 ## B) Zugriff mit SSH-Key
+### ssh-Befehl und das Resultat unter Verwendung des ersten Schlüssels
+<img src="KN02 IaaS - Virtuelle Server/Zugriff mit SSH-Key/m346KN02BB01.png.png" alt="Eigenschaften von Static website hosting" width="800">
+
+### ssh-Befehl und das Resultat unter Verwendung des zweiten Schlüssels
+<img src="KN02 IaaS - Virtuelle Server/Zugriff mit SSH-Key/m346KN02BB02.png.png" alt="Eigenschaften von Static website hosting" width="800">
+
+### Instanz-Detail mit Key
+<img src="KN02 IaaS - Virtuelle Server/Zugriff mit SSH-Key/m346KN02BB03.png.png" alt="Eigenschaften von Static website hosting" width="800">
 
 ## C) Installation von Web- und Datenbankserver
 
