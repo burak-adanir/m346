@@ -44,7 +44,7 @@ Hyper-Threading ermöglicht virtuelle Threads auf physischen CPU Kernen zu erste
 <img src="KN02 IaaS - Virtuelle Server/Lab 4.2 - Buckets/m346KN02B-01.png" alt="Liste der Buckets" width="800">
 
 ### HTML-Seite, inkl. URL.
-<img src="KN02 IaaS - Virtuelle Server/Lab 4.2 - Buckets/m346KN02B-2.png" alt="Liste der Dateien im Bucket" width="800">
+<img src="KN02 IaaS - Virtuelle Server/Lab 4.2 - Buckets/m346N02B-2.png" alt="Liste der Dateien im Bucket" width="800">
 
 ### Liste der Dateien im Bucket
 <img src="KN02 IaaS - Virtuelle Server/Lab 4.2 - Buckets/m346KN02B-03.png" alt="HTML-Seite, inkl. URL" width="800">
