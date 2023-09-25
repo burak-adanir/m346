@@ -3,6 +3,7 @@ pekoms.-
 
 1. [KN01](#kn01)
 2. [KN02](#kn02)
+3. [KN03](#kn03)
 
 
 # KN01
@@ -25,7 +26,7 @@ Hyper-Threading ermöglicht virtuelle Threads auf physischen CPU Kernen zu erste
 <img src="KN01/m346KN01GastProof.png" alt="Gast-System" width="800">
 
 # KN02
-## A) Lab 4.1 - EC2
+## A)a) Lab 4.1 - EC2
 ### HTML-Seite, inkl. URL
 <img src="KN02 IaaS - Virtuelle Server/AWS Kurs/m346KN02-1.png" alt="HTML-Seite, inkl. URL" width="800">
 
@@ -39,18 +40,18 @@ Hyper-Threading ermöglicht virtuelle Threads auf physischen CPU Kernen zu erste
 <img src="KN02 IaaS - Virtuelle Server/AWS Kurs/m346KN02-4.png" alt="HTML-Seite, inkl. URL" width="800">
 
 
-## B) Lab 4.2 - Buckets 
+## A)b) Lab 4.2 - Buckets 
 ### Liste der Buckets
-<img src="KN02 IaaS - Virtuelle Server/AWS Kurs/m346KN02-1.png" alt="Liste der Buckets" width="800">
+<img src="KN02 IaaS - Virtuelle Server/Lab 4.2 - Buckets/m346KN02B-01.png" alt="Liste der Buckets" width="800">
 
 ### HTML-Seite, inkl. URL.
-<img src="KN02 IaaS - Virtuelle Server/AWS Kurs/m346KN02-2.png" alt="Liste der Dateien im Bucket" width="800">
+<img src="KN02 IaaS - Virtuelle Server/Lab 4.2 - Buckets/m346N02B-2.png" alt="Liste der Dateien im Bucket" width="800">
 
 ### Liste der Dateien im Bucket
-<img src="KN02 IaaS - Virtuelle Server/AWS Kurs/m346KN02-3.png" alt="HTML-Seite, inkl. URL" width="800">
+<img src="KN02 IaaS - Virtuelle Server/Lab 4.2 - Buckets/m346KN02B-03.png" alt="HTML-Seite, inkl. URL" width="800">
 
 ### Eigenschaften von "Static website hosting"
-<img src="KN02 IaaS - Virtuelle Server/AWS Kurs/m346KN02-4.png" alt="Eigenschaften von Static website hosting" width="800">
+<img src="KN02 IaaS - Virtuelle Server/Lab 4.2 - Buckets/m346KN02B-04.png" alt="Eigenschaften von Static website hosting" width="800">
 
 ## B) Zugriff mit SSH-Key
 ### ssh-Befehl und das Resultat unter Verwendung des ersten Schlüssels
@@ -64,4 +65,12 @@ Hyper-Threading ermöglicht virtuelle Threads auf physischen CPU Kernen zu erste
 
 ## C) Installation von Web- und Datenbankserver
 
+### Apache
+<img src="KN02 IaaS - Virtuelle Server/Installation von Web- und Datenbankserver/Installation von Web- und DatenbankserverBild1.png" alt="Eigenschaften von Static website hosting" width="800">
+
+### PHP
+<img src="KN02 IaaS - Virtuelle Server/Installation von Web- und Datenbankserver/Installation von Web- und DatenbankserverBild2.png" alt="Eigenschaften von Static website hosting" width="800">
+
+### Database-Info
+<img src="KN02 IaaS - Virtuelle Server/Installation von Web- und Datenbankserver/Installation von Web- und DatenbankserverBild3.png" alt="Eigenschaften von Static website hosting" width="800">
 
