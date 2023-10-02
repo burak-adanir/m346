@@ -121,7 +121,8 @@ Bei Azure habe ich immer die billigsten Möglichkeiten ausgewählt da sie eine �
 ## 2) Replatforming
 ### Heroku
 <img src="KN07\Screenshot 2023-10-02 105843.png" alt="HTML-Seite, inkl. URL" width="800">
-
+- Standard 2X hat pro Instanz 1GB RAM, ist einbisschen wenig, allerdings ist der Preisunterschied auf die nächste Stufe zu hoch und man hat viel überschüssige Performance.
+- Bei der Datenbank wurde 256 GB gewählt da 64 GB nicht gereicht hätte und 256 GB die nächst höhere ist.
 
 
 
