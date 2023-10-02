@@ -6,10 +6,11 @@ users: # ....
     home: /home/ubuntu # heim Ordner
     shell: /bin/bash # shell Ordner 
     ssh_authorized_keys: # ssh Schlüssel
-      - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDDEirijxHZRaN8tdYpBI0YFt9dZuHWLaAJ+WId1Zx/F46AJSwv0nZbQHf8cSvjWrNAsZXe/OxbLzextUsONanKsCdoIdppHgXersHCNlliHs0HlDL3TdWLfVgRraTEf17OsyscW+abqMrnPx5M4Q0IBDqZKccpuGJHD+5BssWIv+qevOOlU2FbLSk3Y3ctJUXihFqXJ91hjq5iqD48dpi7116BderW0sRv0ljePnF2Dh222ZPiH3jwwm4guKbdT5y86YKFqX60FE9KyVSUehsw40rIgTvFyksZl9d9HOTVQgkNn+jqWbanQ3HFKE9Ea1u6pAw2cO2efO3dHbJev6Nh aws-key       
+     	- ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCWAKoXhq7rjB27VKbjmQDL6aIqLiHcr3sGO4B9e92MUbR13zW9LbGxafsBwQisNVq2bEpk3Cfp6oEqVz14+IeSMDPsB3mfnzf6UN0Bjk9weHnrhwe3QHkTIhtkGzyOpXEVOgiDN6u9fF076YioMBGSbLIG/c8arLLn/MavKx2WHa48DQO7IGfGI9nEepnxsaVBB6s4r944gmDauCB3oUNBlEdcRqnz0XHuu0FdJEGbJJNYXklNSafGec4qVkSMKts/PDrMs+UAJkV4WBya6PM7PIHd+URHp6C6rqKJbaxuY/Qs9UqXQrkjGCxFp45kRd0hQf0esClRQc9tjZYm+mJb aws-key          
 ssh_pwauth: false # ssh Passwort Authentifizierung
 disable_root: false # Deaktivierung vom Root-Benutzer
 package_update: true # Aktualisierung der Pakete
 packages: # Pakete
   - curl 
   - wget 
+x
