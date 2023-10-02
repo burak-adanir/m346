@@ -101,10 +101,28 @@ Hyper-Threading ermöglicht virtuelle Threads auf physischen CPU Kernen zu erste
 Bei AWS habe ich zwei EC2 Instanzen am laufen, eines für die VM, die andere für die Datenbank. Unteranderem auch den Load Balancer und die Back-Up Option gemäss Vorgaben.
 Bei der VM Instanz habe ich einen mit 2 Kernen und 2 GB RAM ausgewählt, da dieser mit der Preis-Leistung mir passte. Bei der Datenbank Instanz habe ich den billigsten mit 4 GB RAM genommen. Als Standort habe ich USA-West genommen, da sie am günstigsten war.
 
+### Pro: 
+- Die Backups sind im allgemeinen günstiger als bei Azure
+- Der Webserver hat ein 5 Gbit Netzwerk
+### Contra:
+- Teurer Load Balancer
+
 ### AZURE
 <img src="KN07\Screenshot 2023-10-02 095747.png" alt="HTML-Seite, inkl. URL" width="800">
 
 Bei Azure habe ich immer die billigsten Möglichkeiten ausgewählt da sie eine übersichtlichere Auswahl hatten. Als Standort habe ich ebenfalls USA-West genommen, da sie wieder am günstigsten war. 
+
+### Pro: 
+- Load Balancer ist gratis
+- Gute UI
+### Contra:
+- Teurere Instanzen
+
+## 2) Replatforming
+### Heroku
+<img src="KN07\Screenshot 2023-10-02 105843.png" alt="HTML-Seite, inkl. URL" width="800">
+
+
 
 
 
