@@ -5,6 +5,8 @@ pekoms.-
 2. [KN02](#kn02)
 3. [KN03](#kn03)
 
+7. [KN07](#kn07)
+
 
 # KN01
 ### CPU mit weniger Cores than Gast-System
@@ -89,4 +91,25 @@ Hyper-Threading ermöglicht virtuelle Threads auf physischen CPU Kernen zu erste
 
 ### Screenshot mit dem Auszug aus dem Cloud-Init-Log.
 <img src="KN02 IaaS - Virtuelle Server/AWS Kurs/m346KN02-4.png" alt="HTML-Seite, inkl. URL" width="800">
+
+# KN07
+## A) Kostenrechnung erstellen
+### 1) Rehosting
+### AWS
+<img src="KN07\Screenshot 2023-10-02 104140.png" alt="HTML-Seite, inkl. URL" width="800">
+
+Bei AWS habe ich zwei EC2 Instanzen am laufen, eines für die VM, die andere für die Datenbank. Unteranderem auch den Load Balancer und die Back-Up Option gemäss Vorgaben.
+Bei der VM Instanz habe ich einen mit 2 Kernen und 2 GB RAM ausgewählt, da dieser mit der Preis-Leistung mir passte. Bei der Datenbank Instanz habe ich den billigsten mit 4 GB RAM genommen. Als Standort habe ich USA-West genommen, da sie am günstigsten war.
+
+### AZURE
+<img src="KN07\Screenshot 2023-10-02 095747.png" alt="HTML-Seite, inkl. URL" width="800">
+
+Bei Azure habe ich immer die billigsten Möglichkeiten ausgewählt da sie eine übersichtlichere Auswahl hatten. Als Standort habe ich ebenfalls USA-West genommen, da sie wieder am günstigsten war. 
+
+
+
+
+
+
+
 
