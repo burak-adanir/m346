@@ -127,9 +127,17 @@ Bei Azure habe ich immer die billigsten Möglichkeiten ausgewählt da sie eine �
 
 - Bei der Datenbank wurde 256 GB gewählt da 64 GB nicht gereicht hätte und 256 GB die nächst höhere ist.
 
+## 3) Repurchasing
+### Zoho CRM 
+<img src="KN07\Screenshot 2023-10-06 224545.png" alt="HTML-Seite, inkl. URL" width="800">
 
+### SalesForce
+<img src="KN07\Screenshot 2023-10-02 110638.png" alt="HTML-Seite, inkl. URL" width="800">
 
-
+## B) Interpretation der Resultate
+### Wie stark unterscheiden sich die Angebote?
+### Welches ist das billigste?
+### Wieso ist eines davon viel teurer? Ist es aber wirklich teurer?
 
 
 
