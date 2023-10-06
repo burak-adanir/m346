@@ -131,14 +131,22 @@ Bei Azure habe ich immer die billigsten Möglichkeiten ausgewählt da sie eine �
 ### Zoho CRM 
 <img src="KN07\Screenshot 2023-10-06 224545.png" alt="HTML-Seite, inkl. URL" width="800">
 
+- Bei der Professional Subscription hat man die meisten Grundlegenden Funktionen, die Enterprise Version würde ich bei der Grösse des Unternehmens nicht nehmen, sie wäre auch viel teurer.
+  
 ### SalesForce
 <img src="KN07\Screenshot 2023-10-02 110638.png" alt="HTML-Seite, inkl. URL" width="800">
 
+- Hier habe ich Starter Version genommen, der Preisunterschied zum nächsten ist erheblich, dies macht auch bei der Grösse des Teams viel mehr Sinn für mich.
+
 ## B) Interpretation der Resultate
 ### Wie stark unterscheiden sich die Angebote?
-### Welches ist das billigste?
-### Wieso ist eines davon viel teurer? Ist es aber wirklich teurer?
+Die Angebote sind bei allen recht ähnlich, ausser dass man bei Replatforming und Repurchasing nicht eine Präzisere Auswahl zur Verfügung hat. 
 
+### Welches ist das billigste?
+Rehosting, bei beiden Anbietern (Azure und AWS) kostet es fast gleich.
+
+### Wieso ist eines davon viel teurer? Ist es aber wirklich teurer?
+Ich denke Repurchasing und Replatforming sind teurer, da sie mehr Funktionen haben und auch härteren use-case haben.
 
 
 
