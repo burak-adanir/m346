@@ -84,7 +84,7 @@ Hyper-Threading ermöglicht virtuelle Threads auf physischen CPU Kernen zu erste
 
 ## B) SSH-Key und Cloud-init
 ### Ein Screenshot der Details oder Liste der Instanz, welcher den verwendeten Key zeigt.
-<img src="KN02 IaaS - Virtuelle Server/AWS Kurs/m346KN02-2.png" alt="HTML-Seite, inkl. URL" width="800">
+<img src="" alt="HTML-Seite, inkl. URL" width="800">
 
 ### Screenshot mit dem ssh-Befehl und des Resultats unter Verwendung des ersten Schlüssels.
 <img src="KN02 IaaS - Virtuelle Server/AWS Kurs/m346KN02-2.png" alt="HTML-Seite, inkl. URL" width="800">
@@ -94,6 +94,12 @@ Hyper-Threading ermöglicht virtuelle Threads auf physischen CPU Kernen zu erste
 
 ### Screenshot mit dem Auszug aus dem Cloud-Init-Log.
 <img src="KN02 IaaS - Virtuelle Server/AWS Kurs/m346KN02-4.png" alt="HTML-Seite, inkl. URL" width="800">
+
+## C) Template
+
+## D) Auftrennung von Web- und Datenbankserver
+<img src="KN02 IaaS - Virtuelle Server/AWS Kurs/m346KN02-4.png" alt="HTML-Seite, inkl. URL" width="800">
+
 
 # KN07
 ## A) Kostenrechnung erstellen
