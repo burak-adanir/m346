@@ -59,14 +59,13 @@ Hyper-Threading ermöglicht virtuelle Threads auf physischen CPU Kernen zu erste
 <img src="KN02 IaaS - Virtuelle Server/Lab 4.2 - Buckets/m346KN02B-04.png" alt="Eigenschaften von Static website hosting" width="800">
 
 ## B) Zugriff mit SSH-Key
-### ssh-Befehl und das Resultat unter Verwendung des ersten Schlüssels
-<img src="KN03 Cloud-init und AWS\B\Key1.png" alt="Eigenschaften von Static website hosting" width="800">
+<img src="KN02 IaaS - Virtuelle Server/Zugriff mit SSH-Key/m346KN02BB01.png.png" alt="Eigenschaften von Static website hosting" width="800">
 
 ### ssh-Befehl und das Resultat unter Verwendung des zweiten Schlüssels
-<img src="KN03 Cloud-init und AWS\B\Key2.png" alt="Eigenschaften von Static website hosting" width="800">
+<img src="KN02 IaaS - Virtuelle Server/Zugriff mit SSH-Key/m346KN02BB02.png.png" alt="Eigenschaften von Static website hosting" width="800">
 
 ### Instanz-Detail mit Key
-<img src="KN03 Cloud-init und AWS\B\AuszugCloudInit.png" alt="Eigenschaften von Static website hosting" width="800">
+<img src="KN02 IaaS - Virtuelle Server/Zugriff mit SSH-Key/m346KN02BB03.png.png" alt="Eigenschaften von Static website hosting" width="800">
 
 ## C) Installation von Web- und Datenbankserver
 
@@ -84,16 +83,16 @@ Hyper-Threading ermöglicht virtuelle Threads auf physischen CPU Kernen zu erste
 
 ## B) SSH-Key und Cloud-init
 ### Ein Screenshot der Details oder Liste der Instanz, welcher den verwendeten Key zeigt.
-<img src="" alt="HTML-Seite, inkl. URL" width="800">
+<img src="KN03 Cloud-init und AWS\B\assignedStuff.png" alt="HTML-Seite, inkl. URL" width="800">
 
 ### Screenshot mit dem ssh-Befehl und des Resultats unter Verwendung des ersten Schlüssels.
-<img src="KN02 IaaS - Virtuelle Server/AWS Kurs/m346KN02-2.png" alt="HTML-Seite, inkl. URL" width="800">
+<img src="KN03 Cloud-init und AWS\B\key1" alt="HTML-Seite, inkl. URL" width="800">
 
 ### Screenshot mit dem ssh-Befehl und des Resultats unter Verwendung des zweiten Schlüssels.
-<img src="KN02 IaaS - Virtuelle Server/AWS Kurs/m346KN02-3.png" alt="HTML-Seite, inkl. URL" width="800">
+<img src="KN03 Cloud-init und AWS\B\key2" alt="HTML-Seite, inkl. URL" width="800">
 
 ### Screenshot mit dem Auszug aus dem Cloud-Init-Log.
-<img src="KN02 IaaS - Virtuelle Server/AWS Kurs/m346KN02-4.png" alt="HTML-Seite, inkl. URL" width="800">
+<img src="KN03 Cloud-init und AWS\B\AuszugCloudInit.png" alt="HTML-Seite, inkl. URL" width="800">
 
 ## C) Template
 
