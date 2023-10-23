@@ -4,9 +4,12 @@ pekoms.-
 1. [KN01](#kn01)
 2. [KN02](#kn02)
 3. [KN03](#kn03)
-
+4. [KN04](#kn04)
+5. [KN05](#kn05)
+6. [KN06](#kn06)
 7. [KN07](#kn07)
-
+8. [KN08](#kn08)
+9. [KN09](#kn09)
 
 # KN01
 ### CPU mit weniger Cores than Gast-System
@@ -57,13 +60,13 @@ Hyper-Threading ermöglicht virtuelle Threads auf physischen CPU Kernen zu erste
 
 ## B) Zugriff mit SSH-Key
 ### ssh-Befehl und das Resultat unter Verwendung des ersten Schlüssels
-<img src="KN02 IaaS - Virtuelle Server/Zugriff mit SSH-Key/m346KN02BB01.png.png" alt="Eigenschaften von Static website hosting" width="800">
+<img src="KN03 Cloud-init und AWS\B\Key1.png" alt="Eigenschaften von Static website hosting" width="800">
 
 ### ssh-Befehl und das Resultat unter Verwendung des zweiten Schlüssels
-<img src="KN02 IaaS - Virtuelle Server/Zugriff mit SSH-Key/m346KN02BB02.png.png" alt="Eigenschaften von Static website hosting" width="800">
+<img src="KN03 Cloud-init und AWS\B\Key2.png" alt="Eigenschaften von Static website hosting" width="800">
 
 ### Instanz-Detail mit Key
-<img src="KN02 IaaS - Virtuelle Server/Zugriff mit SSH-Key/m346KN02BB03.png.png" alt="Eigenschaften von Static website hosting" width="800">
+<img src="KN03 Cloud-init und AWS\B\AuszugCloudInit.png" alt="Eigenschaften von Static website hosting" width="800">
 
 ## C) Installation von Web- und Datenbankserver
 
