@@ -82,14 +82,14 @@ Hyper-Threading ermöglicht virtuelle Threads auf physischen CPU Kernen zu erste
 ## A) Cloud-init Datei
 
 ## B) SSH-Key und Cloud-init
-### Ein Screenshot der Details oder Liste der Instanz, welcher den verwendeten Key zeigt.
+### Ein Screenshot der Details oder Liste der Instanz + "Key pair assigned at launch".
 <img src="KN03 Cloud-init und AWS\B\assignedStuff.png" alt="HTML-Seite, inkl. URL" width="800">
 
 ### Screenshot mit dem ssh-Befehl und des Resultats unter Verwendung des ersten Schlüssels.
-<img src="KN03 Cloud-init und AWS\B\key1" alt="HTML-Seite, inkl. URL" width="800">
+<img src="KN03 Cloud-init und AWS\B\Key1" alt="HTML-Seite, inkl. URL" width="800">
 
 ### Screenshot mit dem ssh-Befehl und des Resultats unter Verwendung des zweiten Schlüssels.
-<img src="KN03 Cloud-init und AWS\B\key2" alt="HTML-Seite, inkl. URL" width="800">
+<img src="KN03 Cloud-init und AWS\B\Key2" alt="HTML-Seite, inkl. URL" width="800">
 
 ### Screenshot mit dem Auszug aus dem Cloud-Init-Log.
 <img src="KN03 Cloud-init und AWS\B\AuszugCloudInit.png" alt="HTML-Seite, inkl. URL" width="800">
