@@ -12,5 +12,4 @@ disable_root: false # Deaktivierung vom Root-Benutzer
 package_update: true # Aktualisierung der Pakete
 packages: # Pakete
   - curl 
-  - wget 
-x
+  - wget
