@@ -95,6 +95,7 @@ Hyper-Threading ermöglicht virtuelle Threads auf physischen CPU Kernen zu erste
 <img src="KN03 Cloud-init und AWS\B\AuszugCloudInit.png" alt="HTML-Seite, inkl. URL" width="800">
 
 ## C) Template
+[Yamls]([https://www.somewebsite.com](https://github.com/burak-adanir/m346/tree/main/KN03%20Cloud-init%20und%20AWS/yamls)
 
 ## D) Auftrennung von Web- und Datenbankserver
 ### Beweisführung DB Server
