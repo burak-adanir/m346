@@ -83,7 +83,7 @@ Hyper-Threading ermöglicht virtuelle Threads auf physischen CPU Kernen zu erste
 
 ## B) SSH-Key und Cloud-init
 ### Ein Screenshot der Details oder Liste der Instanz + "Key pair assigned at launch".
-<img src="KN03 Cloud-init und AWS\B\assignedStuff.png" alt="HTML-Seite, inkl. URL" width="800">
+<img src="KN03 Cloud-init und AWS\D\Screenshot 2023-10-29 140056.png" alt="HTML-Seite, inkl. URL" width="800">
 
 ### Screenshot mit dem ssh-Befehl und des Resultats unter Verwendung des ersten Schlüssels.
 <img src="KN03 Cloud-init und AWS\B\Key1.png" alt="HTML-Seite, inkl. URL" width="800">
@@ -97,8 +97,14 @@ Hyper-Threading ermöglicht virtuelle Threads auf physischen CPU Kernen zu erste
 ## C) Template
 
 ## D) Auftrennung von Web- und Datenbankserver
-<img src="KN02 IaaS - Virtuelle Server/AWS Kurs/m346KN02-4.png" alt="HTML-Seite, inkl. URL" width="800">
+### Beweisführung DB Server
+<img src="KN03 Cloud-init und AWS\D\Screenshot 2023-10-23 105959.png" alt="HTML-Seite, inkl. URL" width="800">
+<img src="KN03 Cloud-init und AWS\D\telnet.png" alt="HTML-Seite, inkl. URL" width="800">
 
+### Beweisführung Web Server
+<img src="KN03 Cloud-init und AWS\D\indexhtmkn03.png" alt="HTML-Seite, inkl. URL" width="800">
+<img src="KN03 Cloud-init und AWS\D\infophpkn3d.png" alt="HTML-Seite, inkl. URL" width="800">
+<img src="KN03 Cloud-init und AWS\D\screenshot db.png" alt="HTML-Seite, inkl. URL" width="800">
 
 # KN07
 ## A) Kostenrechnung erstellen
