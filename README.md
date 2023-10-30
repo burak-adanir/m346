@@ -106,6 +106,7 @@ Hyper-Threading ermöglicht virtuelle Threads auf physischen CPU Kernen zu erste
 <img src="KN03 Cloud-init und AWS\D\indexhtmkn03.png" alt="HTML-Seite, inkl. URL" width="800">
 <img src="KN03 Cloud-init und AWS\D\infophpkn3d.png" alt="HTML-Seite, inkl. URL" width="800">
 <img src="KN03 Cloud-init und AWS\D\screenshot db.png" alt="HTML-Seite, inkl. URL" width="800">
+<img src="KN03 Cloud-init und AWS\D\IMG_1347.jpg" alt="HTML-Seite, inkl. URL" width="800">
 
 # KN07
 ## A) Kostenrechnung erstellen
