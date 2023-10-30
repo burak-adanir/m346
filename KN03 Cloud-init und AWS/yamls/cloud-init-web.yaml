@@ -1,0 +1,60 @@
+#cloud-config
+users:
+  - name: ubuntu
+    sudo: ALL=(ALL) NOPASSWD:ALL
+    groups: users, admin
+    home: /home/ubuntu
+    shell: /bin/bash
+    ssh_authorized_keys:
+      - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCWAKoXhq7rjB27VKbjmQDL6aIqLiHcr3sGO4B9e92MUbR13zW9LbGxafsBwQisNVq2bEpk3Cfp6oEqVz14+IeSMDPsB3mfnzf6UN0Bjk9weHnrhwe3QHkTIhtkGzyOpXEVOgiDN6u9fF076YioMBGSbLIG/c8arLLn/MavKx2WHa48DQO7IGfGI9nEepnxsaVBB6s4r944gmDauCB3oUNBlEdcRqnz0XHuu0FdJEGbJJNYXklNSafGec4qVkSMKts/PDrMs+UAJkV4WBya6PM7PIHd+URHp6C6rqKJbaxuY/Qs9UqXQrkjGCxFp45kRd0hQf0esClRQc9tjZYm+mJb aws-key
+ssh_pwauth: false
+disable_root: false
+package_update: true
+packages:
+  - apache2
+  - php
+  - libapache2-mod-php
+  - adminer
+  - php-mysqli
+runcmd:
+  - sudo a2enconf adminer
+  - sudo systemctl restart apache2
+write_files:
+  - path: /var/www/html/db.php
+    content: |
+      <?php
+         //database
+         $servername = "54.227.97.117";
+         $username = "admin";
+         $password = "password";
+         $dbname = "mysql";
+
+         // Create connection
+         $conn = new mysqli($servername, $username, $password, $dbname);
+         // Check connection
+         if ($conn->connect_error) {
+                 die("Connection failed: " . $conn->connect_error);
+         }
+
+         $sql = "select Host, User from mysql.user;";
+         $result = $conn->query($sql);
+         while($row = $result->fetch_assoc()){
+                 echo($row["Host"] . " / " . $row["User"] . "<br />");
+         }
+         //var_dump($result);
+          ?>
+    permissions: "0666"
+  - path: /var/www/html/info.php
+    content: |
+      <?php
+      // Show all information, defaults to INFO_ALL
+      phpinfo();
+
+      ?>
+    permissions: "0666"
+runcmd:
+  - sudo mysql -sfu root -e "GRANT ALL ON *.* TO 'admin'@'%' IDENTIFIED BY 'password' WITH GRANT OPTION;"
+  - sudo sed -i 's/127.0.0.1/0.0.0.0/g' /etc/mysql/mariadb.conf.d/50-server.cnf
+  - sudo a2enconf adminer
+  - sudo systemctl restart mariadb.service
+  - sudo systemctl restart apache2
