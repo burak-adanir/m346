@@ -108,6 +108,36 @@ Hyper-Threading ermöglicht virtuelle Threads auf physischen CPU Kernen zu erste
 <img src="KN03 Cloud-init und AWS\D\screenshot db.png" alt="HTML-Seite, inkl. URL" width="800">
 <img src="KN03 Cloud-init und AWS\D\IMG_1347.jpg" alt="HTML-Seite, inkl. URL" width="800">
 
+# KN04
+## A) Bild erstellen und auf S3 hosten
+### Screenshot der S3-Objekte im Bucket
+<img src="KN04\KN04A1.png" alt="HTML-Seite, inkl. URL" width="800">
+
+### Screenshot des Bildes im Browser (mit sichtbarer URL)
+<img src="KN04\KN04A2.png" alt="HTML-Seite, inkl. URL" width="800">
+
+## B) Web-Server mit PHP-Seite hinzufügen
+### Screenshot der Seite image.php (mit sichtbarer URL)
+<img src="KN04\KN04B1.png" alt="HTML-Seite, inkl. URL" width="800">
+
+## C) Elastic Block Storage (EBS) hinzufügen.
+### Screenshots der Liste der EBS (2 Volumen) der Instanz
+<img src="KN04\KN04C1.png" alt="HTML-Seite, inkl. URL" width="800">
+
+## D) Speichereigenschaften erkennen
+### Kategorisierung
+| Name           | Typ  | Persistenz |
+|----------------|------|------------|
+| EBS Root       | Hot  | Nein       |
+| EBS 2nd volume | Hot  | Ja         |
+| S3             | Warm | Ja         |
+
+EBS Root: Wird oft fürs Betriebssystem und Systemdateien verwendet. Darauf ist ein schneller Zugriff erfolderlich, weswegen ich es als "Hot" kategorisiert. Sie muss aber nicht unbedingt persistent sein, da es die Dateien nach dem herunterfahren der Instanz löscht.
+
+EBS 2nd Volume: Dient oft als zusätzlicher Speicher für Daten, die häufiger geändert und aktualisiert werden. Man braucht einen schneller Zugriff und die Datenintegrität muss auch erhalten bleiben, deswegen "Hot" und "Ja" für Persistenz.
+
+S3: Wird  für die Speicherung von Backups, Archiven und anderen Daten verwendet, die nicht häufig geändert werden. Zugriff darauf kann auch langsamer sein -> "Warm", aber die Persistenz ist wichtig, damit die Daten bei einem Ausfall noch vorhanden sind.
+
 # KN07
 ## A) Kostenrechnung erstellen
 ### 1) Rehosting
