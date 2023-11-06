@@ -1,0 +1,35 @@
+#cloud-config
+users:
+  - name: ubuntu
+    sudo: ALL=(ALL) NOPASSWD:ALL
+    groups: users, admin
+    home: /home/ubuntu
+    shell: /bin/bash
+ssh_authorized_keys:
+      - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCWAKoXhq7rjB27VKbjmQDL6aIqLiHcr3sGO4B9e92MUbR13zW9LbGxafsBwQisNVq2bEpk3Cfp6oEqVz14+IeSMDPsB3mfnzf6UN0Bjk9weHnrhwe3QHkTIhtkGzyOpXEVOgiDN6u9fF076YioMBGSbLIG/c8arLLn/MavKx2WHa48DQO7IGfGI9nEepnxsaVBB6s4r944gmDauCB3oUNBlEdcRqnz0XHuu0FdJEGbJJNYXklNSafGec4qVkSMKts/PDrMs+UAJkV4WBya6PM7PIHd+URHp6C6rqKJbaxuY/Qs9UqXQrkjGCxFp45kRd0hQf0esClRQc9tjZYm+mJb aws-key
+      - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC0WGP1EZykEtv5YGC9nMiPFW3U3DmZNzKFO5nEu6uozEHh4jLZzPNHSrfFTuQ2GnRDSt+XbOtTLdcj26+iPNiFoFha42aCIzYjt6V8Z+SQ9pzF4jPPzxwXfDdkEWylgoNnZ+4MG1lNFqa8aO7F62tX0Yj5khjC0Bs7Mb2cHLx1XZaxJV6qSaulDuBbLYe8QUZXkMc7wmob3PM0kflfolR3LE7LResIHWa4j4FL6r5cQmFlDU2BDPpKMFMGUfRSFiUtaWBNXFOWHQBC2+uKmuMPYP4vJC9sBgqMvPN/X2KyemqdMvdKXnCfrzadHuSSJYEzD64Cve5Zl9yVvY4AqyBD aws-key
+ssh_pwauth: false
+disable_root: false
+package_update: true
+packages:
+  - apache2
+  - php
+  - libapache2-mod-php
+runcmd:
+  - sudo systemctl restart apache2
+write_files:
+  - path: /var/www/html/image.php
+    content: >
+      	<?php $ihrname = "Ömer Burak Adanir"; ?>
+        <html>
+        <head>
+        <title><?php echo($ihrname) ?></title>
+        </head>
+        <body>
+               Noser Academy KuhenHtml
+        <br />
+        <img src="https://oemer-bucket.s3.amazonaws.com/IMG_0423.jpg"/>
+        https://unsplash.com/photos/nU-uOifIwEk
+        </body>
+        </html>
+    permissions: "0666"
