@@ -167,6 +167,7 @@ S3: Wird  für die Speicherung von Backups, Archiven und anderen Daten verwendet
 
 ### Screenshot der Liste der Instanzen, wenn beide Instanzen gestoppt sind.
 <img src="KN05\Stopp.png" alt="HTML-Seite, inkl. URL" width="800">
+<img src="KN05\stopp2.png" alt="HTML-Seite, inkl. URL" width="800">
 
 ### Screenshot der Details beider Instanzen, so dass die Subnet ID sichtbar ist.
 <img src="KN05\summary1.png" alt="HTML-Seite, inkl. URL" width="800">
