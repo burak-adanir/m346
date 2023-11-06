@@ -139,6 +139,42 @@ EBS 2nd Volume: Dient oft als zusätzlicher Speicher für Daten, die häufiger g
 
 S3: Wird  für die Speicherung von Backups, Archiven und anderen Daten verwendet, die nicht häufig geändert werden. Zugriff darauf kann auch langsamer sein -> "Warm", aber die Persistenz ist wichtig, damit die Daten bei einem Ausfall noch vorhanden sind.
 
+# KN05
+## A) Diagramm erstellen
+### Diagramm als Bild
+<img src="KN05\KN05Diagram.png" alt="HTML-Seite, inkl. URL" width="800">
+
+## B) Subnetz und private IP wählen 
+### Screenshot der Subnetzen, die die Namen zeigen
+<img src="KN05\KN05B.png" alt="HTML-Seite, inkl. URL" width="800">
+
+### Zwei definierte IPs für Web- und DB-Server/Instanz
+172.31.16.228, 172.31.21.248
+## C) Objekte und Instanzen erstellen
+### Screenshot der Liste der Sicherheitsgruppe mit sprechenden Namen/Feldern
+<img src="KN05\KN05Infor.png" alt="HTML-Seite, inkl. URL" width="800">
+
+### Screenshot der Inbound-Regel für die DB-Sicherheitsgruppe.
+<img src="KN05\KN05CDBRUles.png" alt="HTML-Seite, inkl. URL" width="800">
+
+### Screenshot der Liste der Elastic IPs mit sprechenden Namen.
+<img src="KN05\KN05Elastic.png" alt="HTML-Seite, inkl. URL" width="800">
+
+### Zeigen Sie, dass Sie nun alle drei Seiten aufrufen können (index.html, info.php und db.php)
+<img src="KN05\Screenshot 2023-11-06 111330.png" alt="HTML-Seite, inkl. URL" width="800">
+<img src="KN05\inforKN05.png" alt="HTML-Seite, inkl. URL" width="800">
+<img src="KN05\image.png" alt="HTML-Seite, inkl. URL" width="800">
+
+### Screenshot der Liste der Instanzen, wenn beide Instanzen gestoppt sind.
+<img src="KN05\Stopp.png" alt="HTML-Seite, inkl. URL" width="800">
+
+### Screenshot der Details beider Instanzen, so dass die Subnet ID sichtbar ist.
+<img src="KN05\summary1.png" alt="HTML-Seite, inkl. URL" width="800">
+<img src="KN05\summary2.png" alt="HTML-Seite, inkl. URL" width="800">
+
+### Cloud Init
+
+
 # KN07
 ## A) Kostenrechnung erstellen
 ### 1) Rehosting
