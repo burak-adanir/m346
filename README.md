@@ -173,8 +173,7 @@ S3: Wird  für die Speicherung von Backups, Archiven und anderen Daten verwendet
 <img src="KN05\summary2.png" alt="HTML-Seite, inkl. URL" width="800">
 
 ### Cloud Init
-https://github.com/burak-adanir/m346/tree/main/KN07
-
+](https://github.com/burak-adanir/m346/blob/main/KN07/cloud-init.yaml)
 # KN07
 ## A) Kostenrechnung erstellen
 ### 1) Rehosting
