@@ -119,6 +119,7 @@ Hyper-Threading ermöglicht virtuelle Threads auf physischen CPU Kernen zu erste
 ## B) Web-Server mit PHP-Seite hinzufügen
 ### Screenshot der Seite image.php (mit sichtbarer URL)
 <img src="KN04\KN04B1.png" alt="HTML-Seite, inkl. URL" width="800">
+https://github.com/burak-adanir/m346/blob/main/KN04/cloud-init.yaml
 
 ## C) Elastic Block Storage (EBS) hinzufügen.
 ### Screenshots der Liste der EBS (2 Volumen) der Instanz
